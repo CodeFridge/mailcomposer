@@ -24,7 +24,7 @@
         }
     ],
     "dependencies": {
-        "mimelib": ">= 0.2.0"
+        "mimelib": "https://github.com/CodeFridge/mimelib/tarball/qpfix"
     },
     "devDependencies": {
         "nodeunit": "*",
